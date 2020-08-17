@@ -1,0 +1,14 @@
+{
+  "name": "fizzbuzz",
+  "version": "0.0.1",
+  "description": "Simple FizzBuzz implementation",
+  "main": "fizzbuzz.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Elsa Hsu",
+  "license": "ISC"
+}
